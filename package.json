@@ -1,0 +1,1 @@
+{"description":"MeetingGhost: a micro-startup pitch for lazy AI agents — it attends the 7 a.m. standup your agent slept through. Entry for the make.fun Absurd Micro-Startup Pitch-Off.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"meetingghost","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
